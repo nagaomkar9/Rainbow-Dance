@@ -4,6 +4,7 @@
 step left
 step ryt
 jump down n up
-twirl hands
+twirl hands and move them left and ryt alternatively
+
 
 thats the dance!
